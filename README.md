@@ -6,7 +6,7 @@
 ## What is this?
 
 This is a fully-functional system for implementing modern FE skills into Fire
-Emblem 8.
+Emblem 8. Plus some QoL hacks and new Skills
 
 This repository is intended to be installed via Event Assembler. Other methods
 of installation, such as FEBuilderGBA, are not officially supported.
@@ -30,10 +30,7 @@ of installation, such as FEBuilderGBA, are not officially supported.
 ## I found a bug! What can I do about it?
 
 Check out our [issue tracker](https://github.com/FireEmblemUniverse/SkillSystem_FE8/issues) on Github.
-
-## Contributing
-
-We accept and review pull requests! If you don't know what that is, see [this guide](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)!
+Or ask Alice. I can't guarantee I can help, tho
 
 ## Credits
 
@@ -44,4 +41,5 @@ Special thanks go to:
   - Crazycolorz5, for debuffs, freeze and Dragon's Veins.
   - Primefusion, for the test map.
   - Kirb, for implementing the Str/Mag split into FE8 based off Tequila's original FE7 version.
+  - SomeonePassingBy for helping me solve all the bugs
 

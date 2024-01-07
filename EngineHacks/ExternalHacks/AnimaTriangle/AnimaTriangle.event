@@ -7,15 +7,15 @@
 
 	ALIGN 4 // Be sure to terminate each list with an 0x00!
 	FireList:
-	BYTE Fire Elfire Calamity Forblaze/* Other tomes to be considered fire */ 0x00
+	BYTE Fire Elfire Forblaze/* Other tomes to be considered fire */ 0x00
 
 	ALIGN 4
 	ThunderList:
-	BYTE Thunder Bolting Elthunder DireThunder/* Other tomes to be considered thunder */ 0x00
+	BYTE Thunder Bolting/* Other tomes to be considered thunder */ 0x00
 
 	ALIGN 4
 	WindList:
-	BYTE Fimbulvetr WindSword Wind Elwind Sleet Aircalibur/* Other tomes to be considered wind */ 0x00
+	BYTE Fimbulvetr WindSword Aircalibur/* Other tomes to be considered wind */ 0x00
 	
 	
 #endif // ANIMA_TRIANGLE
